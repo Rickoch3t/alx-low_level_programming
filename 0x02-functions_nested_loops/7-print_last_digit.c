@@ -12,12 +12,12 @@ int print_last_digit(int n)
 	{
 		nv = -1 * (n % 10);
 		_putchar(n + '0');
-		return nv;
+		return (nv)
 	}
-	else 
+	else
 	{
 		nv = n % 10;
 		_putchar(n + '0');
-		return nv;
+		return (nv)
 	}
 }
