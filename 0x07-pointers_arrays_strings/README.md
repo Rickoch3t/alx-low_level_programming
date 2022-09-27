@@ -1,0 +1,1 @@
+This directory contains tasks on pointers to pointers and multidimensional arrays.
