@@ -1,0 +1,1 @@
+This folder contains tasks that are focused on structures, what they are, when, why and how to use them and how to use typedef.
